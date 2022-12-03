@@ -1,0 +1,47 @@
+
+.tablecontainer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.tablecontainer>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.tablecont{
+  
+  border: 1px solid black;
+  width: 90%;
+ font-size: 90%;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ border-collapse: collapse;
+ position: relative;
+ 
+}
+
+.tablerow{
+    width: 100%;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   border-spacing: 0;
+}
+
+
+.lastrow{
+    display: flex;
+    justify-content: flex-end;
+    text-align: end;
+    align-items: flex-end;
+    width: 100%;
+   
+}
